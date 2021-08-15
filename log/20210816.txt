@@ -1,1 +1,3 @@
-20210816 : hi this is my first data for git !
+20210816 :
+1. hi this is my first data for git !
+2. this is my second data. 이것 참 어렵다 !
